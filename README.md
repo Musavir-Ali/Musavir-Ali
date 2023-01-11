@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Java Script & Node Js**
 
 - 📫 How to reach me **musavirali1241@gmail.com**
 
